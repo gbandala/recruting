@@ -1,0 +1,10 @@
+node_modules
+test
+config
+.vscode
+build
+docker-compose.yml
+jest.config.js 
+nodemon.json
+.env
+.env.local

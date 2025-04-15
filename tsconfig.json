@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "module": "commonjs",
+      "resolveJsonModule": true,
+      "esModuleInterop": true,
+      "target": "es6",
+      "moduleResolution": "node",
+      "rootDir": "./src",
+      "outDir": "build",
+      "forceConsistentCasingInFileNames": true
+    },
+    "include": [
+      "src/**/*"
+    ],
+    "exclude": [
+      "node_modules"
+    ]
+  }
